@@ -1,0 +1,34 @@
+Aspect               | Lambda Function                        | Regular Function
+
+Definition           | A lambda function is a small function   | A regular function is a named function
+                     | that can be defined inline.             | defined using the void, int, char, etc. data types.
+
+Syntax               | [capture clause] (parameters) ->       | return-type function-name(parameters) { function body }.
+                     | return-type { function body }.           
+
+Name                 | Lambda functions can be assigned to     | Regular functions have a name.
+                     | a variable and invoked using that       
+                     | variable’s name.                        
+
+Scope                | Lambda functions can capture variables  | Regular functions cannot access variables
+                     | from the enclosing scope.               | from an enclosing scope unless they are passed as arguments.
+
+Use Case             | Lambda functions are used for short     | Regular functions are used for code that will be reused.
+                     | snippets of code that are not going
+                     | to be reused.                          
+
+Return Type          | The return type of a lambda function is | The return type of a regular function must be explicitly declared.
+                     | automatically deduced by the compiler 
+                     | based on the return statement in the   
+                     | function body.                        
+
+Capturing Variables  | Lambda functions can capture variables  | Regular functions cannot capture variables
+                     | from the enclosing scope by value,      | from the enclosing scope.
+                     | by reference, or both.                  
+
+Anonymous            | Lambda functions are often referred to | Regular functions must be declared with a name.
+                     | as “anonymous functions” because they  
+                     | can be defined without a name. This   
+                     | allows us to define a function right  
+                     | where it is used, making the code     
+                     | cleaner and easier to understand.
