@@ -49,5 +49,13 @@ int main(){
     printf("\n\nLogical OR (Operator - ||)\n");
     printf("\nThe Value of Integer Variables a is %d and b is %d After Condition and Logical OR Execution.\n", a,b);
 
+    // Seeing for Logical NOT !
+    // Since condition returns to False b is reassigned
+    if(!( a > 400))
+        b = 56;
+    
+    printf("\n\nLogical NOT (Operator - !)\n");
+    printf("\nThe Value of Integer Variables a is %d and b is %d After Condition and Logical NOT Execution.\n", a,b);
+
 
 }
