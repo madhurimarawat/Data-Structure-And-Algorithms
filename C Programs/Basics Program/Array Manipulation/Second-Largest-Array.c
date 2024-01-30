@@ -44,6 +44,10 @@ int main() {
     if (result != -1) {
         printf("Second Largest Element: %d", result);
     }
+    
+    else{
+        printf("Array has only one element.")
+    }
 
     return 0;
 }
