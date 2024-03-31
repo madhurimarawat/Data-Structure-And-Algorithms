@@ -1,22 +1,22 @@
 # Data-Structure-And-Algorithms
 This repository contains programs in the C,C++ and Python programming language related to Data Structures.
 
-### C:
+### <code>C:</code>
 - Fast and efficient procedural language
 - Low-level memory manipulation
 - Widely used in system programming and embedded systems
 
-### C++:
+### <code>C++:</code>
 - Extends C with OOP features
 - Includes classes and polymorphism
 - Applied in game development, system programming, and software engineering
 
-### Python:
+### <code>Python:</code>
 - High-level and versatile
 - Supports multiple programming paradigms
 - Popular for web development, data science, and AI applications
 
-### Coding Interview Questions and Solutions
+### <code>Coding Interview Questions and Solutions</code>
 
 A collection of coding interview questions along with their solutions. This repository is meant to be a resource for candidates preparing for technical interviews.
 
@@ -33,8 +33,10 @@ A collection of coding interview questions along with their solutions. This repo
 - **Pattern Printing**: This repository contains many pattern printing programs in multiple languages.
 - **Commanly Asked Questions**: Most Comman and Frequent questions along with solution and description is given here.
 
+### Special Code
+
 <details open>
-  <summary><h2>✍️🐍Starry Signature ✨</h2></summary>
+  <summary><h3>🌟✨📝<code>Starry Signature</code> ✍️</h3></summary>
   <br>
   Click here to view the Python code that prints my name in stars:&nbsp; <a href="https://github.com/madhurimarawat/Data-Structure-And-Algorithms/blob/main/Python%20Programs/DSA_Pattern_Printing.ipynb">🔗Link to Code📓🐍</a>
   <br><br>
