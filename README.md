@@ -33,6 +33,24 @@ A collection of coding interview questions along with their solutions. This repo
 - **Pattern Printing**: This repository contains many pattern printing programs in multiple languages.
 - **Commanly Asked Questions**: Most Comman and Frequent questions along with solution and description is given here.
 
+<details open>
+  <summary><h2>✍️🐍Starry Signature ✨</h2></summary>
+  <br>
+  Click here to view the Python code that prints my name in stars:&nbsp; <a href="https://github.com/madhurimarawat/Data-Structure-And-Algorithms/blob/main/Python%20Programs/DSA_Pattern_Printing.ipynb">🔗Link to Code📓🐍</a>
+  <br><br>
+  
+  ```
+*       *    * * * * *    * * * * *   *       *   *       *   * * * * *    * * * * * * *    *       *    * * * * * 
+* *   * *    *       *    *       *   *       *   *       *   *       *          *          * *   * *    *       *
+*  * *  *    *       *    *       *   *       *   *       *   *       *          *          *  * *  *    *       *
+*   *   *    * * * * *    *       *   * * * * *   *       *   * * * * *          *          *   *   *    * * * * * 
+*       *    *       *    *       *   *       *   *       *   *    *             *          *       *    *       *
+*       *    *       *    *       *   *       *   *       *   *     *            *          *       *    *       *
+*       *    *       *    * * * * *   *       *   * * * * *   *      *     * * * * * * *    *       *    *       *
+ ```
+
+</details>
+
 ---
 
 ## Thanks for Visiting 😄
